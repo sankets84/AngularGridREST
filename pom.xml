@@ -5,7 +5,7 @@
   <artifactId>AngularGridREST</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
-  <name>AngularGridREST Maven Webapp</name>
+  <name>AngularGridREST</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
